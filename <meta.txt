@@ -1,0 +1,34 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/><!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Resume Making</title>
+<style>
+.Mahi{
+  text-indent:35%;
+}
+</style>
+</head>
+<body>
+<h1 class="Mahi"><b>Resume</h1></b>
+<h3>Contact Information:</h3>
+<h4 class="heading1">Name: Mahendra L</h4>
+<h4>Email: mahendraloganathan@gmail.com</h4>
+<h4>Phone number: 9952015794</h4>
+<h4>LinkedIn profile: Mahendra Loganathan</h4>
+<h3>Education:</h3>
+<h4>Degree: Bachelor of Engineering(B.E)</h3>
+<h4>Field of study: Computer Science and Engineering</h4>
+<h4>Institution Name: Rajalakshmi Institute of Technology(RIT)</h3>
+<h4>Graduation year: 2028</h4>
+<h3>Skills:</h3>
+<h4>Communucation</h4>
+<h4>Teamwork</h4>
+<h4>Listening</h4>
+<h4>Leadership</h4>
+<h3>Extracurricular activities:</h4>
+<h4>Participated in Kids Education Revolution(KER)</h4>
+<h4>Played a league match on the sport football</h4>
+<h4>Particpated in Chennai students kondattam(CSK)</h4>
+<h4>Attended Computer workshop</h4>
+</body>
+</html><script>click <downlaod></script>
